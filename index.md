@@ -1,43 +1,26 @@
 ---
-layout: home 
+layout: home
 title: Home
 ---
 
-# 👋 Welcome to FC Blog & Portfolio.
+# 🚀 FC Blog & Portfolio
 
-I'm **fra-git**, a developer and lifelong learner documenting my journey through code. This space is dedicated to exploring new technologies, sharing projects, and offering tutorials on topics that challenge and excite me.
+Sono uno studente con una forte passione per l'**Intelligenza Artificiale** e l'**Apprendimento Automatico**.
 
----
-
-## 🎯 What You'll Find Here
-
-Here are the best places to start:
-
-* ### **The Projects**
-    A showcase of my latest work, including live demos and links to the full source code on GitHub.
-    **[View My Portfolio & Projects →](/projects/)**
-
-* ### **The Blog**
-    Technical deep-dives, helpful tutorials, and my personal notes on development challenges and solutions.
-    **[Read the Latest Posts →](/posts)** *(Your theme may automatically generate a /posts link)*
+Questo sito serve come **hub centrale** per il mio lavoro, permettendoti di esplorare i miei progetti, leggere i miei articoli e saperne di più su di me.
 
 ---
 
-## 📰 Latest Articles
+## 🎯 Inizia Da Qui
 
-This section will automatically show your most recent blog posts, provided your theme supports it.
-
-* **{{ site.posts.first.title | default: "Hello Blog" }}** - *{{ site.posts.first.date | date: "%b %-d, %Y" | default: "Oct 29, 2025" }}*
-
-* *If you've just started, list your first post manually as a placeholder:*
-    **[Hello Blog](/_posts/2025-10-29-HelloWorld.md)** - *Oct 29, 2025*
-
----
-
-## 🤝 Connect
-
-Feel free to reach out and follow my work!
-
-| Platform | Link |
+| Navigazione | Cosa Troverai |
 | :--- | :--- |
-| **GitHub** | **[fra-git](https://github.com/fra-git)** |
+| **[Progetti](/projects/)** | Le mie repository GitHub, i modelli sviluppati e le demo. |
+| **[Blog](/posts/)** | Articoli, appunti di studio e tutorial di codice. |
+| **[About](/about/)** | La mia biografia, le mie competenze e come contattarmi. |
+
+---
+
+## Ultimo Articolo
+
+* {{ site.posts.first.title | default: "Nessun post trovato" }} - *{{ site.posts.first.date | date: "%B %-d, %Y" | default: "Inizio del blog" }}*
