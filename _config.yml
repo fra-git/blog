@@ -2,25 +2,30 @@ title: Blog & Portfolio
 tagline: Student eager to learn about Machine Learning and Deep Learning
 # email:  # Update your email
 description: Personal blog covering coding, projects, and learning journey.
-baseurl: "/blog"
-url: "https://fra-git.github.io" 
-github_username: fra-git 
+# github_username: fra-git 
 
-# Theme Setup (CRITICAL for the new look)
-remote_theme: "chirpy-theme/jekyll-theme-chirpy@v6.6.2"
+# -----------------------------------------------------------------------------
+# Theme Setup (CRITICAL - DO NOT CHANGE THESE LINES)
+# -----------------------------------------------------------------------------
+remote_theme: "chirpy-theme/jekyll-theme-chirpy"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
   
-# --- We are skipping header_pages ---
+# -----------------------------------------------------------------------------
+# GitHub Pages Setup (Keep this structure)
+# -----------------------------------------------------------------------------
+baseurl: "/blog"
+url: "https://fra-git.github.io"
 
-# Author Profile Settings (Appears on the left sidebar)
-avatar: /assets/img/profile.jpg # We will upload this image later
+# -----------------------------------------------------------------------------
+# Author Profile Settings (Sidebar - UPDATE THESE)
+# -----------------------------------------------------------------------------
+avatar: /assets/img/profile.jpg # You will upload this image later
 locale: en
 social:
-  # Keep only the social links you want (NO TWITTER)
   github: fra-git
-  linkedin: your_linkedin_handle # Replace with your actual handle
-  location: My Current City, Country
+  #linkedin: your_linkedin_handle 
+  #location: My Current City, Country # e.g., Washington, DC
