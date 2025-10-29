@@ -17,6 +17,11 @@ plugins:
 baseurl: "/blog"
 url: "https://fra-git.github.io"
 
+header_pages:
+  - about.md
+  - projects.md
+  - posts.md
+
 # -----------------------------------------------------------------------------
 # Author Profile Settings (Sidebar - UPDATE THESE)
 # -----------------------------------------------------------------------------
@@ -26,4 +31,5 @@ social:
   github: fra-git
   #linkedin: your_linkedin_handle 
   #location: My Current City, Country # e.g., Washington, DC
+
 
