@@ -1,8 +1,9 @@
-title: Francesco Cimarra Portfolio
+title: Francesco Cimarra
 tagline: Student eager to learn about Machine Learning and Deep Learning
 # email:  # Update your email
 description: Personal blog covering coding, projects, and learning journey.
 github_username: fra-git 
+linkedin_username: cimarra-francesco
 
 # -----------------------------------------------------------------------------
 # Theme Setup (CRITICAL - DO NOT CHANGE THESE LINES)
@@ -31,6 +32,7 @@ social:
   github: fra-git
   #linkedin: your_linkedin_handle 
   #location: My Current City, Country # e.g., Washington, DC
+
 
 
 
