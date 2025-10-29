@@ -23,4 +23,4 @@ Benvenuto nel mio spazio. Sono uno studente focalizzato sull'intersezione tra Ma
 ##  Connettiamoci:
 
 * **GitHub**: [fra-git](https://github.com/fra-git)
-* **LinkedIn**: [Il tuo Profilo LinkedIn](https://www.linkedin.com/in/il-tuo-profilo/)
+* **LinkedIn**: [Il tuo Profilo LinkedIn](https://www.linkedin.com/in/cimarra-francesco/)
