@@ -1,4 +1,10 @@
-theme: minima
-title: My Portfolio
-author: FC
-description: 
+title: Blog & Portfolio
+# email:  # Update your email
+description: Personal blog covering coding, projects, and learning journey.
+baseurl: "/blog"
+url: "https://fra-git.github.io" 
+github_username: fra-git 
+
+# CRITICAL: Add this section for your navigation links
+header_pages:
+  - projects.md
