@@ -3,9 +3,9 @@ layout: home
 title: Home
 ---
 
-# 🚀 FC Blog & Portfolio
+# 🚀 Blog & Portfolio
 
-Sono uno studente con una forte passione per l'**Intelligenza Artificiale** e l'**Apprendimento Automatico**.
+Sono uno studente con abdoansodnaos
 
 Questo sito serve come **hub centrale** per il mio lavoro, permettendoti di esplorare i miei progetti, leggere i miei articoli e saperne di più su di me.
 
@@ -13,14 +13,8 @@ Questo sito serve come **hub centrale** per il mio lavoro, permettendoti di espl
 
 ## 🎯 Inizia Da Qui
 
-| Navigazione | Cosa Troverai |
+| Navigazione | Contenuto |
 | :--- | :--- |
-| **[Progetti](/projects/)** | Le mie repository GitHub, i modelli sviluppati e le demo. |
-| **[Blog](/posts/)** | Articoli, appunti di studio e tutorial di codice. |
-| **[About](/about/)** | La mia biografia, le mie competenze e come contattarmi. |
-
----
-
-## Ultimo Articolo
-
-* {{ site.posts.first.title | default: "Nessun post trovato" }} - *{{ site.posts.first.date | date: "%B %-d, %Y" | default: "Inizio del blog" }}*
+| **[Progetti]({{ site.baseurl }}/projects/)** | Le mie repository GitHub e il Portfolio. |
+| **[Blog]({{ site.baseurl }}/posts/)** | Articoli, appunti di studio e tutorial. |
+| **[About]({{ site.baseurl }}/about/)** | La mia biografia, le mie competenze e i contatti. |
