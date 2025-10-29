@@ -7,12 +7,9 @@ description: Personal blog covering coding, projects, and learning journey.
 # -----------------------------------------------------------------------------
 # Theme Setup (CRITICAL - DO NOT CHANGE THESE LINES)
 # -----------------------------------------------------------------------------
-remote_theme: "chirpy-theme/jekyll-theme-chirpy"
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-paginate
   
 # -----------------------------------------------------------------------------
 # GitHub Pages Setup (Keep this structure)
@@ -29,3 +26,4 @@ social:
   github: fra-git
   #linkedin: your_linkedin_handle 
   #location: My Current City, Country # e.g., Washington, DC
+
