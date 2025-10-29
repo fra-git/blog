@@ -1,36 +1,41 @@
 ---
 layout: page
-title: About Me
+title: About Me - Data & AI Enthusiast
 permalink: /about/
 ---
 
-<div style="display: flex; gap: 40px;">
-    <div style="flex-basis: 300px; padding: 20px; border: 1px solid #ddd; border-radius: 8px;">
-        <p align="center">
-            </p>
+# 🤖 Ciao, Sono Francesco!
 
-        <h3 style="margin-top: 0;">Francesco Rossi</h3>
-        <p style="font-style: italic; color: #555;">Studente con focus su Machine Learning e Intelligenza Artificiale.</p>
+Benvenuto nel mio spazio. Sono uno studente focalizzato sull'intersezione tra **Machine Learning**, **Deep Learning** e **Sviluppo Software**. Questo portfolio è il diario del mio percorso per diventare un boh.
 
-        <hr>
+---
 
-        <p><strong>📍 Posizione:</strong> La Tua Città, Italia</p>
+## 🧠 Le Mie Competenze (Skills Showcase)
 
-        <p><strong>🔗 Connessioni:</strong></p>
-        <ul>
-            <li><a href="https://github.com/fra-git">GitHub: fra-git</a></li>
-            <li><a href="https://linkedin.com/in/il-tuo-profilo">LinkedIn: Il tuo Profilo</a></li>
-        </ul>
-    </div>
+| Categoria | Stack Tecnologico |
+| :--- | :--- |
+| **Linguaggi 🐍** | Python (Pandas, NumPy), SQL, JavaScript |
+| **Framework ML 📊** | PyTorch, Scikit-learn, TensorFlow/Keras |
+| **Database & Cloud ☁️** | MySQL |
+| **Strumenti 🛠️** | Git & GitHub, VS Code |
 
-    <div style="flex-grow: 1;">
-        <h1>👋 Ciao, Sono Francesco!</h1>
+---
 
-        <p>Benvenuto nel mio blog e portfolio. Ho creato questo spazio per documentare il mio percorso di apprendimento, dalla teoria alla pratica di Machine Learning e Deep Learning.</p>
+## 💡 La Mia Missione
 
-        <h2>La Mia Missione</h2>
-        <p>L'obiettivo è condividere progetti, appunti di studio e tutorial che rendano l'IA più accessibile. Credo che la migliore forma di apprendimento sia l'insegnamento (o il documentare!).</p>
+Il mio obiettivo è applicare modelli predittivi complessi per risolvere problemi reali. Su questo blog troverai:
 
-        <p>Esplora i [miei progetti]({{ site.baseurl }}/projects/) o leggi i [miei ultimi post]({{ site.baseurl }}/posts/).</p>
-    </div>
-</div>
+* **Tutorial Dettagliati:** Dai notebook Jupyter alla messa in produzione di modelli.
+* **Progetti End-to-End:** Analisi complete di dati e implementazioni di AI.
+* **Appunti di Studio:** Riassunti chiari su algoritmi avanzati.
+
+[Vedi Subito i Miei Progetti Più Recenti →]({{ site.baseurl }}/projects/)
+
+---
+
+## 🌐 Connettiamoci
+
+Sono sempre aperto a nuove collaborazioni e discussioni tecniche. Trovami qui:
+
+* **GitHub (Il Codice)**: [fra-git](https://github.com/fra-git)
+* **LinkedIn (Il Professionista)**: [Il tuo Profilo LinkedIn]([https://linkedin.com/in/il-tuo-profilo](https://www.linkedin.com/in/cimarra-francesco/))
