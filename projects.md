@@ -10,9 +10,9 @@ Qui presento i miei lavori più significativi, con un focus sui modelli e le app
 
 ---
 
-## 🥇 Progetto in Evidenza: Where Is My Bin (Smart Waste Management AI)
+## 🥇 Progetto #1
     
-*Un'applicazione di Computer Vision per la gestione intelligente dei rifiuti.*
+*Un'applicazione per ...*
     
 | Dettaglio | Valore |
 | :--- | :--- |
@@ -20,5 +20,5 @@ Qui presento i miei lavori più significativi, con un focus sui modelli e le app
 | **Tecnologie** | Python, CNNs (Convolutional Neural Networks), OpenCV |
 | **Obiettivo** | Classificazione automatica dei rifiuti |
     
-**[🚀 Vai al Repository Completo su GitHub](https://github.com/AlessandroStaffolani/where-is-my-bin)**
+**[🚀 Vai al Repository Completo su GitHub](https://github.com/)**
     
