@@ -1,4 +1,13 @@
-theme: minima
+# theme: minima
 title: My Portfolio
 author: FC
 description: 
+
+# Theme settings
+remote_theme: jekyll/minima@v2.5.1
+
+header_pages:
+  - about.md
+  - projects.md
+
+# You will need to create 'about.md' and 'projects.md' files in your root directory!
